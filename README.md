@@ -19,6 +19,9 @@
 - 🌱 Thrive in **curricular** and **co-curricular activities** that enhance technical & soft skills
 - 🔧 Currently working on real-time **AI accessibility tools** for the visually impaired
 
+
+
+
 ---
 
 ### 🚀 Tech Stack & Tools
