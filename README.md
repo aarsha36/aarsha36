@@ -7,8 +7,7 @@
 
 ---
 
-<img align="right" alt="Hi there!" width="300" src="https://media.tenor.com/-Z0gRHPJnZQAAAAC/anime-wave.gif" />
-
+<img align="right" src="multitalented-girl.png" alt="Multitalented Girl" width="300" />
 
 
 ### 🌟 About Me
