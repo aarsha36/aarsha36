@@ -7,13 +7,14 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding Girl" width="360" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+
 
 ### 🌟 About Me
 
 - 🎓 3rd Year CSE (AI & ML) student at **Chandigarh University**
 - 🤖 Exploring the intersection of **Machine Learning**, **AI**, and **Human-Centric Design**
-- 💻 Actively participating in **hackathons**, **ISEATHONs**, and **research paper writing**
+- 💻 Actively participating in **hackathons**, **IDEATHONs**, and **research paper writing**
 - 📚 Passionate about **learning by building** and sharing ideas through academic writing
 - 🌱 Thrive in **curricular** and **co-curricular activities** that enhance technical & soft skills
 - 🔧 Currently working on real-time **AI accessibility tools** for the visually impaired
@@ -51,10 +52,12 @@
 ### 🏅 Achievements & Roles
 
 - 👥 **Joint Secretary**, Technical Society – Chandigarh University
-- 🏆 Winner and finalist in various **hackathons**, **ISEATHONs**, and technical competitions
-- 🧠 Published and presented multiple **research papers** in AI/ML domains
-- 🛠️ Built real-world solutions using ML, NLP, and CV
-- 💬 Active contributor to **team projects**, **collaborations**, and **open-source**
+- 🥈 Northern Command Sapta Shakti Talent Hunt – **Runner-up**
+- 🪐 **Primary Discoverer** – AIASC (Asteroid Campaign)
+- 🎭 Lead performer in **mime and theatrical competitions**
+- 🎤 Class Representative & Anchor | Quiz Club Member
+- 🧠 MUN Delegate | Former swimmer and instrumentalist (🎹 & 🎸)
+
 
 ---
 
