@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" src="multitalented-girl.png.jpg" alt="Multitalented Girl"  width="220" height="220" />
+<img align="right" src="multitalented-girl.png.jpg" alt="Multitalented Girl"  width="200" height="200" />
 
 
 ### 🌟 About Me
