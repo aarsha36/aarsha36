@@ -83,7 +83,7 @@
 
 ### 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/v-s-aarsha)](https://www.linkedin.com/in/v-s-aarsha)
 📫 Email: **aarshaditz@gmail.com**  
 🌐 Portfolio: *Coming Soon*
 
