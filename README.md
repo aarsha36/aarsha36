@@ -55,7 +55,7 @@
 ### 🏅 Achievements & Roles
 
 - 👥 **Joint Secretary**, Technical Society – Chandigarh University
-- 🥈 Northern Command Sapta Shakti Talent Hunt – **Runner-up**
+- 🥈 South Western Command Sapta Shakti Talent Hunt – **Runner-up**
 - 🪐 **Primary Discoverer** – AIASC (Asteroid Campaign)
 - 🎭 Lead performer in **mime and theatrical competitions**
 - 🎤 Class Representative & Anchor | Quiz Club Member
