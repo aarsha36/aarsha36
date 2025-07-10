@@ -7,7 +7,8 @@
 
 ---
 
-<img align="right" alt="Hi there!" width="300" src="https://i.pinimg.com/originals/47/99/4e/47994e88aa5b9f7e3cf8c1f8e8beef43.gif" />
+<img align="right" alt="Hi there!" width="300" src="https://media.tenor.com/-Z0gRHPJnZQAAAAC/anime-wave.gif" />
+
 
 
 ### 🌟 About Me
