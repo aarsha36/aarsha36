@@ -7,7 +7,7 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="360" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" alt="Hi there!" width="300" src="https://i.pinimg.com/originals/47/99/4e/47994e88aa5b9f7e3cf8c1f8e8beef43.gif" />
 
 
 ### 🌟 About Me
